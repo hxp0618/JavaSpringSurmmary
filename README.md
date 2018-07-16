@@ -1,2 +1,3 @@
 # JavaSpringSurmmary
 JavaSpringSurmmary
+使用truelicense进行Java程序license控制 经过扩张可以验证license 开始结束日期，验证绑定给定mac地址
